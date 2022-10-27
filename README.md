@@ -60,7 +60,7 @@ The [MLSA Community Mentorship Program](https://aka.ms/PeerMentorshipProgramBlog
 | Introduction to Cybersecurity | [Introduction to Ethical Hacking course](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-ethical-hacking) <br> [Sample projects on Hackthebox](https://www.hackthebox.com/) <br> [Beginner Guide to getting into Cybersecurity](https://shikothetechgirl.medium.com/beginner-guide-to-getting-into-cybersecurity-7a004c548626) <br> (_Author: [Margaret Kamau](https://www.linkedin.com/in/margaret-kamau11/)_) | TBD |
 | Information Gathering & Social security | [Session recording](https://youtu.be/e4tIURDN4zs) | TBD |
 | Securing Web Applications | [Session recording](https://youtu.be/bi_qP-Xk3MU) | TBD |
-| Demystify IT Audits | Coming soon! | TBD |
+| Demystify IT Audits | [Session recording](https://stdntpartners-my.sharepoint.com/:v:/g/personal/humprey_muriungi_studentambassadors_com/EWHpuAeAfltFooUeaaw2nqsBtMHVqmMdiWUFgrMAuoYoqw?e=zPylYV)| TBD |
 <!--
 
 Ideas:
